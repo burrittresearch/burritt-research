@@ -8,7 +8,7 @@ Hello! My name is Wayne Burritt and I am a financial data analyst, among other t
 
 > [github.com/burrittresearch](https://github.com/burrittresearch)
 
-## About
+sssss
 
 I’ve always been pretty good with numbers. My dad was an accountant and when I was a kid I had to keep track of the hours I worked in the garage. I entered my time in one of those old green 13 columnar pads. I think I was 10.
 
@@ -28,7 +28,7 @@ But I’m still new to data science. And I have a lot to learn. While I bring a 
 
 If that’s you, don’t hesitate to reach out. I promise I’m worth the effort.
 
-## Skills
+sssss
 
 Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting • Deltek Costpoint 
 
