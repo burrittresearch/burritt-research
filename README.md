@@ -1,8 +1,8 @@
-# Welcome to Wayne Burritt's Data Science Portfolio
+# Welcome to Wayne Burritt's Data Science and Financial Writing Portfolios
 
 Hello! My name is Wayne Burritt and I am a financial data analyst, among other things. Below is more about me along with my Data Science Portfolio and Financial Writing Portfolio. If you need some help with data science or financial writing, don't hesitate to get in touch!
 
-> [info@burrittresearch.com](mailto:info@burrittresearch.com?subject=Info)
+> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
 
 > [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch)
 
@@ -28,6 +28,38 @@ But I’m still new to data science. And I have a lot to learn. While I bring a 
 
 If that’s you, don’t hesitate to reach out. I promise I’m worth the effort.
 
-## SKILLS:
+## Skills
 
 Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting • Deltek Costpoint 
+
+# Data Science Portfolio
+
+## restaurants-johnson-city
+Exploratory data analysis for a new restaurant in downtown Johnson City, Tennessee
+
+## Project: Deciding on a New Restaurant for Johnson City, Tennessee
+
+* Provided data analysis for opening a new restaurant in downtown Johnson City, Tennessee
+* Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots
+* With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
+* Delivered a Jupyter notebook, full report, and powerpoint presentation
+    
+    > ### [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')
+    > ### [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
+    > ### [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
+
+
+# Financial Writing Portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
