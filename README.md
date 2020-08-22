@@ -8,7 +8,7 @@ Hello! My name is Wayne Burritt and I am a financial data analyst, among other t
 
 > [github.com/burrittresearch](https://github.com/burrittresearch)
 
-## About
+##About
 
 I’ve always been pretty good with numbers. My dad was an accountant and when I was a kid I had to keep track of the hours I worked in the garage. I entered my time in one of those old green 13 columnar pads. I think I was 10.
 
