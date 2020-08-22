@@ -16,7 +16,7 @@ I guess I should say that was a drag, but it wasn’t. It was satisfying keeping
 
 After graduating from college, I helped a small ballet company with their books and budget forecasts. Both the books and the forecasts were done by hand -- all you had were columnar pads and a 10 key. When you learn about numbers and modeling that way, you never forget.
 
-Soon after I stared at my first version of VisiCalc and my whole work changed. I feel in love with computers and programming. So, it’s no wonder that I became pretty good at excel VBA and, most recently, python.
+Soon after I stared at my first version of VisiCalc and my whole world changed. I feel in love with computers and programming. So, it’s no wonder that I became pretty good at excel VBA and, most recently, python.
 
 Since then, I’ve danced a lot … taught a lot of ballet … and enjoyed my finance related jobs: credit analyst, stockbroker, options trader, equity analyst, financial writer, and financial analyst. I’ve designed tools that help people understand financial data. I’ve also built websites and programmed in HTML/CSS. I’ve written a slew of investment newsletters. I started my own company just to house all this stuff.
 
