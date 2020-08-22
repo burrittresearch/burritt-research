@@ -34,9 +34,6 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 # Data Science Portfolio
 
-## restaurants-johnson-city
-Exploratory data analysis for a new restaurant in downtown Johnson City, Tennessee
-
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
 * Provided data analysis for opening a new restaurant in downtown Johnson City, Tennessee
