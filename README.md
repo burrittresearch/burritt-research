@@ -50,13 +50,13 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 # Financial Writing Portfolio
 
+## Title
 
+> [Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf)
 
+> [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf)
 
-
-
-
-
+> [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf)
 
 
 
