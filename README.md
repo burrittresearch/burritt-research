@@ -1,12 +1,14 @@
-# Welcome to Wayne Burritt's Data Science and Financial Writing Portfolios
+# Welcome to BurrittResearch.com!
 
 Hello! My name is Wayne Burritt and I am a financial data analyst, among other things. Below is more about me along with my Data Science Portfolio and Financial Writing Portfolio. If you need some help with data science or financial writing, don't hesitate to get in touch!
 
-> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
+> [info@burrittresearch.com](mailto:info@burrittresearch.com?subject=Info)
 
-> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch)
+> [burrittresearch.com](https://burrittresearch.com/)
 
 > [github.com/burrittresearch](https://github.com/burrittresearch)
+
+> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch)
 
 ## About
 
