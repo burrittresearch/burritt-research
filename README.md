@@ -44,19 +44,22 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
     
     > ### [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')
+    
     > ### [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
+    
     > ### [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
+    
 
 
 # Financial Writing Portfolio
 
+## Title
 
+> [Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf)
 
+> [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf)
 
-
-
-
-
+> [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf)
 
 
 
