@@ -48,20 +48,24 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
     > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
     
     > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
-    
-
 
 # Financial Writing Portfolio
 
 ## [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')
 
-> This report explains the business problem, data sources, methodology and results for the data science project "Deciding on New Restuarant for Johnson City, Tennessee." It is the same report as noted above.
+This report explains the business problem, data sources, methodology and results for the data science project "Deciding on New Restuarant for Johnson City, Tennessee." It is the same report as noted above.
 
-> [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
+## [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
-> [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
+xxxxxx
 
-> [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
+## [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
+
+xxxxxxx
+
+## [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
+
+xxxxxxx
 
 
 
