@@ -1,8 +1,8 @@
-<h1>Welcome to BurrittResearch.com!</h1>
+# Welcome to BurrittResearch.com!
 
 Hello! My name is Wayne Burritt and I run Burritt Research. I help people with data analysis, financial analysis, or financial writing. Feel free to check out my data science and financial writing portfolios below. And if you'd like to talk, please don't hesitate to get in touch!
 
-> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
+[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
 
 > [burrittresearch.com](https://burrittresearch.com)
 
@@ -10,7 +10,7 @@ Hello! My name is Wayne Burritt and I run Burritt Research. I help people with d
 
 > [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch)
 
-<h2>About</h2>
+## About
 
 I’ve always been pretty good with numbers. My dad was an accountant and when I was a kid I had to keep track of the hours I worked in the garage. I entered my time in one of those old green 13 columnar pads. I think I was 10.
 
@@ -30,11 +30,11 @@ But I’m still new to data science. And I have a lot to learn. While I bring a 
 
 If that’s you, don’t hesitate to reach out. I promise I’m worth the effort.
 
-<h2>Skills</h2>
+## Skills
 
 Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting • Deltek Costpoint 
 
-<h1>Data Science Portfolio</h1>
+# Data Science Portfolio
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
@@ -49,20 +49,20 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
     
     > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
 
-<h1>Financial Writing Portfolio</h1>
+# Financial Writing Portfolio
 
-<h3>[Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')</h3>
+### [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')
 
 A data science report that explains the business problem, data sources, methodology and results for a data science project. It is the same report as noted above.
 
-<h3>[Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')</h3>
+### [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
 A financial market blog that recommends five investments to own.
 
-<h3>[Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')</h3>
+### [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
 
 An options investment newsletter that talks about the investment markets and makes options recommendations.
 
-<h3>[Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')</h3>
+### [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
 This is an equity research that describes the outlook for Alkame Water.
