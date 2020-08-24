@@ -2,7 +2,7 @@
 
 Hello! My name is Wayne Burritt and I run Burritt Research. I help people with data analysis, financial analysis, or financial writing. Feel free to check out my data science and financial writing portfolios below. And if you'd like to talk, please don't hesitate to get in touch!
 
-[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
+> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)
 
 > [burrittresearch.com](https://burrittresearch.com)
 
