@@ -53,15 +53,15 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 ### [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')
 
-A data science report that explains the business problem, data sources, methodology and results for the data science project "Deciding on New Restuarant for Johnson City, Tennessee." It is the same report as noted above.
+A data science report that explains the business problem, data sources, methodology and results for a data science project. It is the same report as noted above.
 
 ### [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
-A financial market blog that recommends give investments to own.
+A financial market blog that recommends five investments to own.
 
 ### [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
 
-An option investment newsletter that talks about the investment markets and makes options recommendations.
+An options investment newsletter that talks about the investment markets and makes options recommendations.
 
 ### [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
