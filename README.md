@@ -43,24 +43,25 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
     
-    > ### [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')
+    > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')
     
-    > ### [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
+    > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
     
-    > ### [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
+    > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
     
 
 
 # Financial Writing Portfolio
 
-## Title
+## [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')
 
-> [Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf)
+> This report explains the business problem, data sources, methodology and results for the data science project "Deciding on New Restuarant for Johnson City, Tennessee." It is the same report as noted above.
 
-> [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf)
+> [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
-> [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf)
+> [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
 
+> [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
 
 
