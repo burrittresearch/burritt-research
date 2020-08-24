@@ -4,7 +4,7 @@ Hello! My name is Wayne Burritt and I am a financial data analyst, among other t
 
 > [info@burrittresearch.com](mailto:info@burrittresearch.com?subject=Info)
 
-> [burrittresearch.com](https://burrittresearch.com/)
+> [burrittresearch.com](https://burrittresearch.com)
 
 > [github.com/burrittresearch](https://github.com/burrittresearch)
 
