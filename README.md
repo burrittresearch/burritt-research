@@ -1,6 +1,8 @@
 # Welcome to BurrittResearch.com!
 
-Hello! My name is Wayne Burritt and I am a financial data analyst, among other things. Below is more about me along with my Data Science Portfolio and Financial Writing Portfolio. If you need some help with data science or financial writing, don't hesitate to get in touch!
+Hello! My name is Wayne Burritt and I run Burritt Research. I love helping people with data analysis, financial analysis, or financial writing. Please feel free to check out my data science and financial writer portfolios below. And if you'd like to talk, please don't hesitate to get in touch! 
+
+am a financial data analyst, among other things. Below is more about me along with my Data Science Portfolio and Financial Writing Portfolio. If you need some help with data science or financial writing, don't hesitate to get in touch!
 
 > [info@burrittresearch.com](mailto:info@burrittresearch.com?subject=Info)
 
