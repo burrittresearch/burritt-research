@@ -51,9 +51,13 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 # Financial Writing Portfolio
 
-### [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Data Analysis Report')
+### [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
 A data science report that explains the business problem, data sources, methodology and results for a data science project. It is the same report as noted above.
+
+### [Cryptocurrency Report](https://burrittresearch.com/wayne-burritt-research-cryptocurrencies.pdf 'Cryptocurrency Report')
+
+An investment report that talks in-depth about the top 10 cryptocurrencies.
 
 ### [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
