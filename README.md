@@ -38,7 +38,9 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
 * Provided data analysis for opening a new restaurant in downtown Johnson City, Tennessee
+
 * Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots
+
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
