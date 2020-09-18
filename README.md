@@ -45,10 +45,8 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
     
-    > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')
-    
-    > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
-    
+    > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')    
+    > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')    
     > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
 
 # Financial Writing Portfolio
