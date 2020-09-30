@@ -7,7 +7,7 @@ Hello! My name is Wayne Burritt and I run Burritt Research. I help people with d
 > [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
 > [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
 > [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')  
-> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')
+> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')   
 > [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')
 
 ## About
