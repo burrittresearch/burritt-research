@@ -47,7 +47,7 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
     > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')      
     > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')  
 
-## Project: Kaggle Competition: Predict House Prices
+## Project: Kaggle Competition Predict House Prices
 
 * We used a variety of data wrangling and feature engineering techniques to prepare the datasets. We then used multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses. When we compare the actual vs predict SalePrice using the our model, the results were mixed. As a result, we could do further refining of the model to improve results. Finally, we applied our model to the competition dataset and submitted our results.
 
