@@ -4,10 +4,11 @@ Hello! My name is Wayne Burritt and I run Burritt Research. I help people with d
 
 <img src="wayne-burritt-pic.jpg">
 
-> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)    
-> [burrittresearch.com](https://burrittresearch.com)    
-> [github.com/burrittresearch](https://github.com/burrittresearch)    
-> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch)
+> [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
+> [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
+> [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')  
+> [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')
+> [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')
 
 ## About
 
@@ -45,6 +46,12 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
     > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')      
     > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')      
     > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')  
+
+## Project: Kaggle Competition: Predict House Prices
+
+* We used a variety of data wrangling and feature engineering techniques to prepare the datasets. We then used multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses. When we compare the actual vs predict SalePrice using the our model, the results were mixed. As a result, we could do further refining of the model to improve results. Finally, we applied our model to the competition dataset and submitted our results.
+
+    > [Jupyter notebook](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')
 
 # Financial Writing Portfolio
 
