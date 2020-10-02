@@ -49,7 +49,7 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 ## Project: Kaggle Competition Predict House Prices
 
-* Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. Used the solution as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
+* Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. The solution also served as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
 * Used a variety of data wrangling and feature engineering techniques to prepare and analyze the datasets. 
 * Employed multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses.
 * Compared actual vs predicted SalePrice using the model. Results were mixed, indicating the model could be improved.
