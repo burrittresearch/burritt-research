@@ -38,9 +38,9 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
-* Provided data analysis for opening a new restaurant in downtown Johnson City, Tennessee.    
+* Provided a solution to the business problem of opening a new restaurant in downtown Johnson City, Tennessee.    
 * Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots.    
-* With insufficient data for predictive modeling, solved the business problem with exploratory data analysis.    
+* With insufficient data for predictive modeling, solved the business problem with exploratory data analysis and data visualization.    
 * Delivered a Jupyter notebook, full report, and powerpoint presentation.    
 
     > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')      
@@ -49,13 +49,13 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 ## Project: Kaggle Competition Predict House Prices
 
-* Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. The prediction also served as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
-* Used a variety of data wrangling and feature engineering techniques to prepare the datasets. 
+* Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. Used the solution as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
+* Used a variety of data wrangling and feature engineering techniques to prepare and analyze the datasets. 
 * Employed multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses.
 * Compared actual vs predicted SalePrice using the model. Results were mixed, indicating the model could be improved.
 
-    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')
-	> [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
+    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
+    > [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
 
 # Financial Writing Portfolio
 
