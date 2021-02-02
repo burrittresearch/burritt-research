@@ -16,6 +16,8 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 
 <img src="wayne-burritt-pic.jpg">
 
+#### Wayne Burritt, CEO and Data Scientist
+
 > [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
 > [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
 > [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')  
