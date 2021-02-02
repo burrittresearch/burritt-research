@@ -12,6 +12,8 @@ Hello! My name is Wayne Burritt and I run Burritt Research. I help people with d
 
 ## About
 
+Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. So, if you need help with data analysis, machine learning, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  
+
 I’ve always been pretty good with numbers. My dad was an accountant and when I was a kid I had to keep track of the hours I worked in the garage. I entered my time in one of those old green 13 columnar pads. I think I was 10.
 
 I guess I should say that was a drag, but it wasn’t. It was satisfying keeping track of what I did. Very satisfying.
@@ -41,11 +43,11 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 * Provided a solution to the business problem of opening a new restaurant in downtown Johnson City, Tennessee.    
 * Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots.    
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis and data visualization.    
-* Delivered a Jupyter notebook, full report, and powerpoint presentation.    
+* Delivered a Jupyter notebook, full report, and PowerPoint presentation.    
 
-    > [Jupyter notebook](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')      
-    > [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')      
-    > [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')  
+    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')      
+    > [Report on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')      
+    > [PowerPoint on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')  
 
 ## Project: Kaggle Competition Predict House Prices
 
