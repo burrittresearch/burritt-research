@@ -4,15 +4,13 @@ Welcome to Burritt Research! We provide data-driven solutions for companies in f
 
 ## Solutions
 
-Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting
+Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • Financial Writing • Investment Analysis • Credit Analysis • Financial Analysis • Options Research • Accounting
 
 ## Languages and Platforms
 
 Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Deltek Costpoint 
 
 ## Our Team
-
-### Wayne Burritt, CEO and Data Scientist
 
 <img src="wayne-burritt-pic.jpg">
 
@@ -23,20 +21,22 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 > [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')   
 > [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')  
 
-### David Oyelade, Chief Data Scientist
+#### David Oyelade, Chief Data Scientist
 
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
+Under construction
 
+# Selected Clients
 
-
-
-
-
-
-
-# Clients
-
-
-
+Agora Financial • Bank of America • Morgan Stanley • Telesto Group • Weiss Research  
 
 # Portfolio
 
