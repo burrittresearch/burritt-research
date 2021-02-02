@@ -1,6 +1,6 @@
 # Burritt Research: Data Science for everyone else
 
-Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. So, if you need help with data analysis, machine learning, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  We'd love to hear from you.  
+Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. And we do so in a way you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. So, if you need help with data analysis, machine learning, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  We'd love to hear from you.  
 
 ## Solutions
 
@@ -19,11 +19,9 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 #### Wayne Burritt, CEO and Data Scientist
 
 > [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
-> [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
 > [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')  
 > [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')   
-> [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')
-
+> [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')  
 
 ### David Oyelade, Chief Data Scientist
 
@@ -31,7 +29,16 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 
 
 
-# Our Portfolio
+
+
+
+
+# Clients
+
+
+
+
+# Portfolio
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
