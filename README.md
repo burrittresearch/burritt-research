@@ -52,7 +52,26 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 
 Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
-# Portfolio
+# Portfolio: Projects
+
+
+## A Comprehensive Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
+
+[Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Project')
+
+
+## San Francisco Crime Classification
+
+[Project on GitHub](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'Project')
+
+
+## Predicting Customers Churn
+
+[Project on GitHub](https://github.com/Drimdave/Predicting-Customers-Churn 'Project')
+
+
+
+
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
