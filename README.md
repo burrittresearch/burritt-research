@@ -1,6 +1,6 @@
 # Burritt Research: Data Science for everyone else
 
-Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. And we do so in a way you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. So, if you need help with data analysis, machine learning, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  We'd love to hear from you.  
+Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. And we do so in a way you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. So, if you need help with data analysis, machine learning algorithms, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  We'd love to hear from you.  
 
 ## Solutions
 
@@ -15,7 +15,7 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
 | --- | --- |
 | <img src="wayne-burritt-pic.jpg"> | <img src="wayne-burritt-pic.jpg"> |
-| foobar  foobar   foobar   foobar  | foobar  foobar   foobar   foobar |
+| foobar  foobar   foobar   foobar  foobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobar| foobar  foobar   foobar   foobar |
 | foobar  foobar   foobar   foobar  | foobar  foobar   foobar   foobar |
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)                           | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)                           | 
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 |
