@@ -50,7 +50,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 
 # Selected Clients
 
-Agora Financial • Bank of America • Morgan Stanley • Telesto Group • Weiss Research  
+Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
 # Portfolio
 
