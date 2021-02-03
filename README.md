@@ -18,23 +18,25 @@ And when it comes to the latest machine learning and artificial intelligence alg
 
 # What We Do
 
-## We have deep experience and capabilities in the following touch points:
+## Solutions that make money:
 
 Business Analysis • Market Analysis • Product Analysis • Sales Analysis • Profit Analysis • Investment Analysis • Credit Analysis • Financial Analysis
-
-## Solutions
-
-Data Analysis • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning, Artificial Intelligence, Neural Networks (see below) • Financial Writing
 
 ## Languages and Platforms
 
 Python • R (R Studio) • SQL • Advanced Excel with VBA • IBM Cognos Analytics • Tableau • PowerBI • IBM Cloud AI • Git/GitHub • HTML/CSS
 
-## Machine Learning, Artificial Intelligence, and Neural Networks
+## Tools and Methods
+
+### Data Analysis
+
+Data Analysis • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning, Artificial Intelligence, Neural Networks (see below) • Financial Writing
+
+### Machine Learning, Artificial Intelligence, and Neural Networks
 
 TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, Polynomial, SVR, Random Forest) • Classification (K-NN, SVM, Random Forest, Naïve Bayes) • Clustering (K-Means, Hierarchical) • Gradient Boosting
 
-## Our Team
+# Our Team
 
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
 | :--- | :--- |
