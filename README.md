@@ -18,7 +18,7 @@ And when it comes to the latest machine learning and artificial intelligence alg
 
 # What We Do
 
-## Solutions that make money:
+## Solutions
 
 Business Analysis • Market Analysis • Product Analysis • Sales Analysis • Profit Analysis • Investment Analysis • Credit Analysis • Financial Analysis
 
@@ -41,7 +41,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
 | :--- | :--- |
 | <img src="wayne-burritt-pic.jpg"> | <img src="wayne-burritt-pic.jpg"> |
-| wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio  | david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio|
+| Wayne loves to help people find solutions to problems using data. The harder the problem, the better. His journey began with VisiCalc and has led to data and financial analysis for companies like Bank of America, Morgan Stanley, and Weiss Research. | david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio|
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | 
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') |
 | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') |
