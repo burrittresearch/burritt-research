@@ -20,23 +20,15 @@ And when it comes to the latest machine learning and artificial intelligence alg
 
 ## We have deep experience and capabilities in the following touch points:
 
-Business Analysis
-Market Analysis
-Product Analysis
-Sales Analysis
-Profit Analysis
-Investment Analysis
-Credit Analysis
-Financial Analysis
-Financial Writing
+Business Analysis • Market Analysis • Product Analysis • Sales Analysis • Profit Analysis • Investment Analysis • Credit Analysis • Financial Analysis
 
 ## Solutions
 
-Data Cleaning • Data Manipulation • Data Visualization • Machine Learning, Artificial Intelligence, Neural Networks (see below)  
+Data Analysis • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning, Artificial Intelligence, Neural Networks (see below) • Financial Writing
 
 ## Languages and Platforms
 
-Python • R (R Studio) • IBM Cloud AI • SQL • Advanced Excel with VBA • IBM Cognos Analytics • Tableau • PowerBI • Git/GitHub • HTML/CSS
+Python • R (R Studio) • SQL • Advanced Excel with VBA • IBM Cognos Analytics • Tableau • PowerBI • IBM Cloud AI • Git/GitHub • HTML/CSS
 
 ## Machine Learning, Artificial Intelligence, and Neural Networks
 
