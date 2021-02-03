@@ -84,11 +84,11 @@ Data analysis, visualization, and prediction model of home prices for Kaggle com
 
 ## Data Science Reports
 
-### [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
+### [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
 Data science report of the analysis and visualization of the restaurant market in Johnson City, Tennessee.
 
-### [Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
+### [Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/wayne-burritt-restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
 
 Data science presentation of the analysis and visualization of the restaurant market in Johnson City, Tennessee.
 
