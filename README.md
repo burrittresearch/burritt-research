@@ -57,43 +57,37 @@ Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto G
 
 ## Data Science Projects Using Python
 
-### Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
+### [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
-### [Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
+### [San Francisco Crime Classification](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
 
-### San Francisco Crime Classification
 
-[Project on GitHub](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
 
-### Predicting Customer Churn
+### [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
-[Project on GitHub](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
-### Predicting FIFA Player Performance
 
-[Project on GitHub](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
+### [Predicting FIFA Player Performance](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
 
-### Data Analysis and Visualization of Restaurants in Johnson City, Tennessee
+ 
 
-[Project on GitHub](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
+### [Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
 
-### Predicting Home Prices Kaggle Competition
 
-[Project on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
+### [Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
+
+
 
 
 ## Data Science Reports
 
-### Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee
+### [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
-[Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
+A data science report that explains the business problem, data sources, methodology and results for a data science project.
 
-A data science report that explains the business problem, data sources, methodology and results for a data science project. It is the same report as noted above.
+### [Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
 
-### Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee
-
-[Exploratory Data Analysis Presentation](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
-
+A data science presentation that explains the business problem, data sources, methodology and results for a data science project.
 
 ## Investment Reports
 
