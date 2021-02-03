@@ -16,13 +16,15 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 | ---                                                                                                        | ---                                                                                                       |
 | <img src="wayne-burritt-pic.jpg">                                                                          | <img src="wayne-burritt-pic.jpg">                                                                         |
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)                           | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)                          | 
-| [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 |[github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 |
-| [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') |[linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') |
-| [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')                        |[@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')                        |
+| [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub')                 |
+| [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') |
+| [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')                        | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')                        |
 
 
 
-
+aa|bb|cc
+--|--|--
+ee|ff|gg 
 
 
 ## Our Team
