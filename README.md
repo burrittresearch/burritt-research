@@ -4,13 +4,13 @@ Welcome to Burritt Research! We'll help you turn data into strategies that touch
 
 # Why Us
 
-Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you really don't need a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
+Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you really don't need a dedicated data science staff. They're hard to get, expensive to maintain, and difficult to keep busy on a daily basis. 
 
 But the fact is you still have a big need for the analytical, statistical, and visualization skills such a dedicated data science staff can deliver. And if you ignore that fact, you do so at your own peril. 
 
 That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. And we happily do so at a fraction of the cost of employing a dedicated data science staff.
 
-We can help you deploy out-of-the-box tools that work well with structured (tabular) data, like Excel, IBM Cognos, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get you up and running in no time.
+We can help you deploy out-of-the-box tools that work well with structured (tabular) data, like Excel, IBM Cognos, PowerBI, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get you up and running in no time.
 
 But we don't stop there. When it comes to unstructured (non-tabular) data like blogs, emails, social media feeds, and websites -- which make up a staggering 80% of the data out there -- we can provide the custom data science solutions that out-of-the-box tools can't touch. And anymore, these custom data solutions aren't a luxury, they're a necessity.
 
@@ -41,7 +41,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
 | :--- | :--- |
 | <img src="wayne-burritt-pic.jpg"> | <img src="david-oyelade-pic.jpg"> |
-| Wayne loves to help people find solutions to problems using data. The harder the problem, the better. His journey began with VisiCalc and has led to data and financial analysis for companies like Bank of America, Morgan Stanley, and Weiss Research. When he's not coding he likes hanging out with his wife Debi in the mountains of southwest Virginia and teaching ballet. | David brings a deep understanding of computer science and mathematics to his role as Chief Data Scientist. He enjoys building algorithms from scratch and seeing where those scripts can take his clients. He is also a certified Digital Marketer who specializes in brand management, lead generation, and website traffic management. |
+| Wayne loves to help people find solutions to problems using data. The harder the problem, the better. His journey began with VisiCalc and has led to data and financial analysis for companies like Bank of America, Morgan Stanley, and Weiss Research. When he's not coding he likes hanging out with his wife Debi in the mountains of southwest Virginia and teaching ballet. | David brings a deep understanding of computer science and mathematics to his role as Burritt Research's Chief Data Scientist. He enjoys building algorithms from scratch and seeing where those scripts can take his clients. He is also a certified Digital Marketer who specializes in brand management, lead generation, and website traffic management. |
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | [doyelade@burrittresearch.com](mailto:doyelade@burrittresearch.com?subject=Info) | 
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') | [github.com/Drimdave](https://github.com/Drimdave 'David Oyelade GitHub') |
 | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
