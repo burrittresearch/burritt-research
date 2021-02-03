@@ -4,7 +4,7 @@ Welcome to Burritt Research! We'll help you turn data into strategies that touch
 
 ## Why Us
 
-Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you probably have little need for a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
+Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you really don't need a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
 
 But the fact is you still have a big need for the analytical, statistical, and visualization skills such a dedicated data science staff can deliver. And if you ignore that fact, you do so at your own peril. 
 
