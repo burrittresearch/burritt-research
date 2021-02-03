@@ -10,9 +10,9 @@ But the fact is you still have a big need for the analytical, statistical, and v
 
 That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. And we happily do so at a fraction of the cost of employing a dedicated data science staff.
 
-Certainly, we can help you deploy tools that work effectively with structured (tabular) data, like Excel, IBM Cognos, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get your team up and running in no time.
+Certainly, we can help you deploy tools that work well with structured (tabular) data, like Excel, IBM Cognos, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get your team up and running in no time.
 
-But while these out-of-the-box tools can work on structured data, they have a tough time dealing with unstructured data like blogs, emails, social media feeds, and websites. And since unstructured data makes up a staggering 80% of the data out there, you'll need custom data science solutions to stay competitive. Burritt Research can help you here, too. 
+And when it comes to unstructured (non-tabular) data like blogs, emails, social media feeds, and websites we can provide the custom data science solutions that out-of-the-box tools can't touch. And since unstructured data makes up a staggering 80% of the data out there, custom data solutions aren't a luxury, they're a necessity.
 
 And when it comes to the latest machine learning and artificial intelligence algorithms, our passionate data scientists provide insights that you would have never thought possible, especially on a budget. The fact is we have the best math nerds out there. And they can't wait to get a hold of your project. [So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
 
