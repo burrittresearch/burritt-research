@@ -6,15 +6,15 @@ Welcome to Burritt Research! We provide data science solutions for companies who
 
 Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you probably have little need for a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
 
-But the fact is you still have a big need for the highest analytical, statistical, and visualization skills that such a dedicated data science staff can deliver. 
+But the fact is you still have a big need for the analytical, statistical, and visualization skills such a dedicated data science staff can deliver. And if you ignore that fact, you do so at your own peril. 
 
-That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. At a fraction of the cost of employing a dedicated data science staff -- and without the hassle of retaining these highly sought after professionals -- Burritt Research can give you the data science expertise that you need. 
+That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. And we happily do so at a fraction of the cost of employing a dedicated data science staff.
 
-Certainly, we can help you deploy tools that work effectively with structured (tabular) data, like Excel, IBM Cognos, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get your team up and running using these tools in no time.
+Certainly, we can help you deploy tools that work effectively with structured (tabular) data, like Excel, IBM Cognos, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get your team up and running in no time.
 
-But that's not all. While out-of-the-box tools can work on structured data, they have a tough time dealing with unstructured data like blogs, emails, social media feeds, and websites. And since unstructured data makes up a staggering 80% of the data out there, Burritt Research provided custom data science solutions that deal directly with the 
+But while these out-of-the-box tools can work on structured data, they have a tough time dealing with unstructured data like blogs, emails, social media feeds, and websites. And since unstructured data makes up a staggering 80% of the data out there, you'll need custom data science solutions to stay competitive. Burritt Research can help you here, too. 
 
-
+And when it comes to the latest machine learning and artificial intelligence algorithms, our passionate data scientists provide insights that you would have never thought possible, especially on a budget. The fact is we have the best math nerds out there. And they can't wait to get a hold of your project. [So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
 
 
 ## Solutions
