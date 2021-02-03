@@ -2,7 +2,7 @@
 
 Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. That's data science for the rest of us. [Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info).
 
-## Why Us
+# Why Us
 
 Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you really don't need a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
 
@@ -16,13 +16,31 @@ But we don't stop there. When it comes to unstructured (non-tabular) data like b
 
 And when it comes to the latest machine learning and artificial intelligence algorithms, our passionate data scientists provide insights that you would have never thought possible, especially on a budget. The fact is we have the best math nerds out there. And they can't wait to get a hold of your project. [So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
 
+# What We Do
+
+## We have deep experience and capabilities in the following touch points:
+
+Business Analysis
+Market Analysis
+Product Analysis
+Sales Analysis
+Profit Analysis
+Investment Analysis
+Credit Analysis
+Financial Analysis
+Financial Writing
+
 ## Solutions
 
-Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • Financial Writing • Investment Analysis • Credit Analysis • Financial Analysis • Options Research • Accounting
+Data Cleaning • Data Manipulation • Data Visualization • Machine Learning, Artificial Intelligence, Neural Networks (see below)  
 
 ## Languages and Platforms
 
-Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Deltek Costpoint 
+Python • R (R Studio) • IBM Cloud AI • SQL • Advanced Excel with VBA • IBM Cognos Analytics • Tableau • PowerBI • Git/GitHub • HTML/CSS
+
+## Machine Learning, Artificial Intelligence, and Neural Networks
+
+TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, Polynomial, SVR, Random Forest) • Classification (K-NN, SVM, Random Forest, Naïve Bayes) • Clustering (K-Means, Hierarchical) • Gradient Boosting
 
 ## Our Team
 
