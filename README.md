@@ -15,10 +15,7 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
 | --- | --- |
 | <img src="wayne-burritt-pic.jpg"> | <img src="wayne-burritt-pic.jpg"> |
-| wayne foobar  foobar   foobar   foobar  foobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobar foobar  foobar   foobar   foobar |
-
-david foobar  foobar   foobar   foobar  foobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobarfoobar  foobar   foobar   foobar foobar  foobar   foobar   foobar |
-
+| wayne bio | david bio |
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | 
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') |
 | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') | [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn') |
