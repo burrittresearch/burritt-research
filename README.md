@@ -55,7 +55,7 @@ Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto G
 # Portfolio
 
 
-## Data Science Projects Using Python
+## Data Science Projects Using Python in Jupyter Notebook
 
 ### [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
@@ -86,29 +86,29 @@ Data analysis, visualization, and prediction model of home prices for Kaggle com
 
 ### [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
-A data science report that explains the business problem, data sources, methodology and results for a data science project.
+Data science report of the analysis and visualization of the restaurant market in Johnson City, Tennessee.
 
 ### [Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
 
-A data science presentation that explains the business problem, data sources, methodology and results for a data science project.
+Data science presentation of the analysis and visualization of the restaurant market in Johnson City, Tennessee.
 
 ## Investment Data Reports
 
 ### [Cryptocurrency Report](https://burrittresearch.com/wayne-burritt-research-cryptocurrencies.pdf 'Cryptocurrency Report')
 
-An investment report that talks in-depth about the top 10 cryptocurrencies.
+Investment report that talks in-depth about the top 10 cryptocurrencies.
 
 ### [Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
 
-A financial market blog that recommends five investments to own.
+Financial market blog that recommends five investments to own.
 
 ### [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
 
-An options investment newsletter that talks about the investment markets and makes options recommendations.
+Options investment newsletter that talks about the investment markets and makes options recommendations.
 
 ### [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
-This is an equity research that describes the outlook for Alkame Water.
+Equity research that describes the outlook for Alkame Water.
 
 
 
