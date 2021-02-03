@@ -59,7 +59,7 @@ Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto G
 
 ### Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
 
-[Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
+### [Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
 ### San Francisco Crime Classification
 
