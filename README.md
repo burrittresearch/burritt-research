@@ -13,7 +13,7 @@ Python • Pandas • Numpy • SQL • Git/GitHub • Advanced Excel with VBA �
 ## Our Team
 
 | Wayne Burritt, CEO and Data Scientist | David Oyelade, Chief Data Scientist |
-| --- | --- |
+| :--- | :--- |
 | <img src="wayne-burritt-pic.jpg"> | <img src="wayne-burritt-pic.jpg"> |
 | wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio wayne bio| david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio david bio|
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | 
