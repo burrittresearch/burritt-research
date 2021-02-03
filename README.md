@@ -59,24 +59,27 @@ Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto G
 
 ### [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
+Comprehensive data analysis and visualization of the vovid-19 pandemic in Nigeria.
+
 ### [San Francisco Crime Classification](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
 
-
+Data analysis, visualization, and prediction algorithm of crime in San Francisco, California.
 
 ### [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
-
+Data analysis, visualization, and prediction model of customer churn rate.
 
 ### [Predicting FIFA Player Performance](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
 
- 
+Data analysis, visualization, and prediction model of FIFA player performance.
 
 ### [Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
 
+Data analysis and visualization of the restaurant market in Johnson City, Tennessee.
 
 ### [Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
 
-
+Data analysis, visualization, and prediction model of home prices for Kaggle competition.
 
 
 ## Data Science Reports
