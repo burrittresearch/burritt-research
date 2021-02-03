@@ -92,7 +92,7 @@ A data science report that explains the business problem, data sources, methodol
 
 A data science presentation that explains the business problem, data sources, methodology and results for a data science project.
 
-## Investment Reports
+## Investment Data Reports
 
 ### [Cryptocurrency Report](https://burrittresearch.com/wayne-burritt-research-cryptocurrencies.pdf 'Cryptocurrency Report')
 
