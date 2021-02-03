@@ -52,51 +52,50 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 
 Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
-# Portfolio: Projects
+# Portfolio
 
 
-## A Comprehensive Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
+## Data Science Projects Using Python
 
-[Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Project')
+### Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
+
+[Project on GitHub](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
+
+### San Francisco Crime Classification
+
+[Project on GitHub](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
+
+### Predicting Customer Churn
+
+[Project on GitHub](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
+
+### Predicting FIFA Player Performance
+
+[Project on GitHub](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
+
+### Data Analysis and Visualization of Restaurants in Johnson City, Tennessee
+
+[Project on GitHub](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
+
+### Predicting Home Prices Kaggle Competition
+
+[Project on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
 
 
-## San Francisco Crime Classification
+## Data Science Reports
 
-[Project on GitHub](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'Project')
+### Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee
 
-
-## Predicting Customers Churn
-
-[Project on GitHub](https://github.com/Drimdave/Predicting-Customers-Churn 'Project')
-
-
-
-
-
-## Project: Deciding on a New Restaurant for Johnson City, Tennessee
-
-* Provided a solution to the business problem of opening a new restaurant in downtown Johnson City, Tennessee.    
-* Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots.    
-* With insufficient data for predictive modeling, solved the business problem with exploratory data analysis and data visualization.    
-* Delivered a Jupyter notebook, full report, and PowerPoint presentation.    
-
-    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-notebook.ipynb 'Notebook')      
-    > [Report on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')      
-    > [PowerPoint on GitHub](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')  
-
-## Project: Kaggle Competition Predict House Prices
-
-* Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. The solution also served as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
-* Used a variety of data wrangling and feature engineering techniques to prepare and analyze the datasets. 
-* Employed multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses.
-* Compared actual vs predicted SalePrice using the model. Results were mixed, indicating the model could be improved.
-
-    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
-    > [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
-
-### [Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
+[Exploratory Data Analysis Report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
 A data science report that explains the business problem, data sources, methodology and results for a data science project. It is the same report as noted above.
+
+### Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee
+
+[Exploratory Data Analysis Presentation](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')
+
+
+## Investment Reports
 
 ### [Cryptocurrency Report](https://burrittresearch.com/wayne-burritt-research-cryptocurrencies.pdf 'Cryptocurrency Report')
 
@@ -113,3 +112,9 @@ An options investment newsletter that talks about the investment markets and mak
 ### [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
 This is an equity research that describes the outlook for Alkame Water.
+
+
+
+
+
+
