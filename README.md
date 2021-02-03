@@ -1,6 +1,16 @@
-# Burritt Research: Data Science for everyone else
+# Burritt Research: Data Science for the rest of us
 
-Welcome to Burritt Research! We provide data-driven solutions for companies in financial services, investment management, and publishing. And we do so in a way you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. So, if you need help with data analysis, machine learning algorithms, and financial writing, please [email us](mailto:wburritt@burrittresearch.com?subject=Info).  We'd love to hear from you.  
+Welcome to Burritt Research! We provide data science solutions for companies who want to make sense of their data, but don't need or want to hire a dedicated data science staff. We turn data into strategies that touch nearly every aspect of a companies operations, from sales to marketing to finance. And we do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. That's data science for the rest of us. [Let's get a conversation started today.](mailto:wburritt@burrittresearch.com?subject=Info).
+
+## Why Us
+
+Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you probably have little need for a dedicated data science staff. They're hard to get, expensive to keep, and difficult to keep busy on a daily basis. 
+
+But the fact is you still have a big need for the highest analytical, statistical, and visualization skills that such a dedicated data science staff can deliver. . 
+
+That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. At a fraction of the cost of employing a dedicated data science staff -- and without the hassle of retaining these highly sought after professionals -- Burritt Research can give you the data science expertise that you need. We can help you deploy tools that work effectively with structured (tabular) data, like Excel, IBM Cognos, and Tableau. And we can have your team up and running in no time.
+
+But we can also take your data needs a step further. While out-of-the-box tools can work on structured data, they have a tough time dealing with unstructured data like blogs, emails, social media feeds, and websites. And since unstructured data makes up a staggering 80% of the data out there, our 
 
 ## Solutions
 
