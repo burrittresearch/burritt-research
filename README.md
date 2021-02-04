@@ -1,4 +1,4 @@
-# Burritt Research: Data Science for the rest of us
+# Burritt Research: Data Science for the Rest of Us
 
 Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. That's data science for the rest of us. [Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info).
 
