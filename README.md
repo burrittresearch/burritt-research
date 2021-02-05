@@ -44,7 +44,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | Wayne loves to help people find solutions to problems using data. The harder the problem, the better. His journey began with VisiCalc and has led to data and financial analysis for companies like Bank of America, Morgan Stanley, and Weiss Research. When he's not coding he likes hanging out with his wife Debi in the mountains of southwest Virginia and teaching ballet. | David brings a deep understanding of computer science and mathematics to his role as Burritt Research's Chief Data Scientist. He enjoys building algorithms from scratch and seeing where those scripts can take his clients. He is also a certified Digital Marketer who specializes in brand management, lead generation, and website traffic management. |
 | [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) | [doyelade@burrittresearch.com](mailto:doyelade@burrittresearch.com?subject=Info) | 
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') | [github.com/Drimdave](https://github.com/Drimdave 'David Oyelade GitHub') |
-| [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
+| [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
 | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') |
 
 
