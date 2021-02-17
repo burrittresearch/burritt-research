@@ -1,15 +1,5 @@
 # Burritt Research: Custom Data Science Solutions
 
-<!-- Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. 
-
-And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. 
-
-Just solutions that are effective and affordable. 
-
-[Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info). -->
-
-<!-- # Why you should contact us today -->
-
 With 2.5 BILLION gigs of new data created EVERY day, any business that ignores data science does so at their own PERIL.
 
 But hiring a dedicated data science staff is EXPENSIVE and DIFFICULT.
@@ -81,13 +71,11 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
 | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') |
 
-
 # Selected Clients
 
 Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
 # Portfolio
-
 
 ## Data Science Projects Using Python in Jupyter Notebook
 
@@ -143,11 +131,3 @@ Options investment newsletter that talks about the investment markets and makes 
 ### [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
 
 Equity research that describes the outlook for Alkame Water.
-
-
-
-
-
-
-
-
