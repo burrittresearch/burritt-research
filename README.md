@@ -46,13 +46,9 @@ Is the 80% worth it? No doubt. Buried in that unorganized data soup of blogs, em
 
 But no matter which way you go – out-of-the-box or custom -- our deliverables are EASY to understand, implement, and track -- no jargon or esoteric nonsense. 
 
-And you’ll work DIRECTLY with our CEO, Wayne, and our Chief Data Scientist, David, every step of way, from our first meeting to the wrap up.
+And you’ll work DIRECTLY with our CEO, [Wayne](mailto:wburritt@burrittresearch.com?subject=Info), and our Chief Data Scientist, [David](mailto:doyelade@burrittresearch.com?subject=Info), every step of way, from our first meeting to the wrap up.
 
-You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help. 
-
-Contact Wayne at 828-699-0590 or wburritt@burrittresearch.com.
-
-[So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
+You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help.
 
 # What We Do
 
