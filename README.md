@@ -1,20 +1,58 @@
-# Burritt Research: Data Science for the Rest of Us
+# Burritt Research: Custom Data Science Solutions
 
-Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. Just solutions that are effective and affordable. That's data science for the rest of us. [Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info).
+Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. 
 
-# Why Us
+And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. 
 
-Let's be frank: Unless you're a giant company in finance, healthcare, or manufacturing, you really don't need a dedicated data science staff. They're hard to get, expensive to maintain, and difficult to keep busy on a daily basis. 
+Just solutions that are effective and affordable. 
 
-But the fact is you still have a big need for the analytical, statistical, and visualization skills such a dedicated data science staff can deliver. And if you ignore that fact, you do so at your own peril. 
+[Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info).
 
-That's where we come in. Since 2005, Burritt Research has provided companies with effective and affordable solutions to their data challenges. And we happily do so at a fraction of the cost of employing a dedicated data science staff.
+# Why you should contact us today
 
-We can help you deploy out-of-the-box tools that work well with structured (tabular) data, like Excel, IBM Cognos, PowerBI, and Tableau. In fact, our team is comprised of experts in each of these tools. And they're ready and willing to get you up and running in no time.
+With 2.5 BILLION gigs of new data created EVERY day, any business that ignores data science does so at their own PERIL.
 
-But we don't stop there. When it comes to unstructured (non-tabular) data like blogs, emails, social media feeds, and websites -- which make up a staggering 80% of the data out there -- we can provide the custom data science solutions that out-of-the-box tools can't touch. And anymore, these custom data solutions aren't a luxury, they're a necessity.
+But hiring a dedicated data science staff is EXPENSIVE and DIFFICULT.
 
-And when it comes to the latest machine learning and artificial intelligence algorithms, our passionate data scientists provide insights that you would have never thought possible, especially on a budget. The fact is we have the best math nerds out there. And they can't wait to get a hold of your project. [So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
+That’s where we come in. 
+
+Since 2005, BURRITT RESEARCH has provided companies with CUSTOM data science solutions without having to hire a dedicated data science staff.
+
+Using YOUR DATA we can:
+
+==> Uncover your most PROFITABLE products and services.
+
+==> Tweak your existing operations for OPTIMAL efficiency.
+
+==> Guide team members toward better and more verifiable DECISIONS.
+
+==> Build machine learning and AI models that make bankable PREDICTIONS.
+
+==> Create systems that reduce RISK across the board.
+
+==> Increase customer ANALYTICS exponentially.
+
+We can deliver these solutions using out-of-the-box tools, like Excel, IBM Cognos, PowerBI, and Tableau.
+
+In fact, we’re EXPERTS at using these tools to do just that.
+
+But with these tools, we’ll only be able to touch 20% OF YOUR DATA. And that’s because they’re designed to work best with data that’s ORGANIZED and NEAT.
+
+To touch the other 80%, you’ll need other tools -- CUSTOM DATA SCIENCE TOOLS that are designed to work with data that’s NOT-organized and NOT-neat.
+
+We’re EXPERTS at using these custom tools as well.
+
+Is the 80% worth it? No doubt. Buried in that unorganized data soup of blogs, emails, social media feeds, and websites are DATA GEMS. And the fact that they’re so hard to get makes them super-valuable.
+
+But no matter which way you go – out-of-the-box or custom -- our deliverables are EASY to understand, implement, and track -- no jargon or esoteric nonsense. 
+
+And you’ll work DIRECTLY with our CEO, Wayne, and our Chief Data Scientist, David, every step of way, from our first meeting to the wrap up.
+
+You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help. 
+
+Contact Wayne at 828-699-0590 or wburritt@burrittresearch.com.
+
+[So, let's talk today](mailto:wburritt@burrittresearch.com?subject=Info).  
 
 # What We Do
 
