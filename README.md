@@ -1,14 +1,14 @@
 # Burritt Research: Custom Data Science Solutions
 
-Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. 
+<!-- Welcome to Burritt Research! We'll help you turn data into strategies that touch nearly every aspect of your company's operations, from sales to marketing to finance. 
 
 And we'll do so in a way that you and your team can understand, implement, and track. No jargon or esoteric nonsense. 
 
 Just solutions that are effective and affordable. 
 
-[Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info).
+[Let's get a conversation started today](mailto:wburritt@burrittresearch.com?subject=Info). -->
 
-# Why you should contact us today
+<!-- # Why you should contact us today -->
 
 With 2.5 BILLION gigs of new data created EVERY day, any business that ignores data science does so at their own PERIL.
 
