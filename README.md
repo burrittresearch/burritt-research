@@ -1,3 +1,5 @@
+<img src="github_cover_ds.png">
+
 # Burritt Research: Custom Data Science Solutions
 
 With 2.5 BILLION gigs of new data created EVERY day, any business that ignores data science does so at their own PERIL.
