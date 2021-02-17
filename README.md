@@ -12,15 +12,15 @@ Since 2005, BURRITT RESEARCH has provided companies with CUSTOM data science sol
 
 Using YOUR DATA we can:
 
-==> Uncover your most PROFITABLE products and services.
+**==> Uncover your most PROFITABLE products and services.**
 
 Solution from our portfolio: [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
-==> Guide team members toward better and more verifiable DECISIONS.
+1. Guide team members toward better and more verifiable DECISIONS.
 
 Solution from our portfolio: [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
-==> Build machine learning and AI models that make bankable PREDICTIONS.
+2. Build machine learning and AI models that make bankable PREDICTIONS.
 
 Solution from our portfolio: [Predicting FIFA Player Performance](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
 
