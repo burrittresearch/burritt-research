@@ -10,19 +10,43 @@ That’s where we come in.
 
 Since 2005, BURRITT RESEARCH has provided companies with CUSTOM data science solutions without having to hire a dedicated data science staff.
 
+
+
+
 Using YOUR DATA we can:
 
 ==> Uncover your most PROFITABLE products and services.
 
-==> Tweak your existing operations for OPTIMAL efficiency.
+Solution from our portfolio: [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
 ==> Guide team members toward better and more verifiable DECISIONS.
 
+Solution from our portfolio: Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria
+
 ==> Build machine learning and AI models that make bankable PREDICTIONS.
+
+Solution from our portfolio: Predicting FIFA Player Performance
 
 ==> Create systems that reduce RISK across the board.
 
-==> Increase customer ANALYTICS exponentially.
+Solution from our portfolio: San Francisco Crime Classification
+
+==> Increase marketing ANALYTICS exponentially.
+
+Solution from our portfolio: Data Analysis and Visualization of Restaurants in Johnson City, Tennessee
+
+==> Provide jargon-free reports that ENGAGE and INSPIRE team members.
+
+Solution from our portfolio: Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee
+(More solutions in our PORTFOLIO below.)
+
+
+
+
+
+
+
+
 
 We can deliver these solutions using out-of-the-box tools, like Excel, IBM Cognos, PowerBI, and Tableau.
 
