@@ -86,6 +86,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | [github.com/burrittresearch](https://github.com/burrittresearch 'Burritt Research GitHub') | [github.com/Drimdave](https://github.com/Drimdave 'David Oyelade GitHub') |
 | [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
 | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') |
+| [Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume")
 
 # Selected Clients
 
