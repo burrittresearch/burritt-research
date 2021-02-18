@@ -1,4 +1,4 @@
-<img src="github_cover_ds.png">
+<img src="github-cover-ds.png">
 
 # Burritt Research: Custom Data Science Solutions
 
