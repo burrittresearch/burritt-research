@@ -56,7 +56,7 @@ And you’ll work DIRECTLY with our CEO, [Wayne](mailto:wburritt@burrittresearch
 
 You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help.
 
-# Some of our clients ...
+# Clients
 
 <img src="github-clients.png">
 
@@ -121,7 +121,6 @@ Data analysis and visualization of the restaurant market in Johnson City, Tennes
 ### [Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
 
 Data analysis, visualization, and prediction model of home prices for Kaggle competition.
-
 
 ## Data Science Reports
 
