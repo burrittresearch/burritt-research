@@ -32,7 +32,7 @@ Solution from our portfolio: [San Francisco Crime Classification](https://github
 
 Solution from our portfolio: [Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
 
-**==> Provide jargon-free reports that ENGAGE and INSPIRE team members.**
+**==> Deliver jargon-free reports that ENGAGE and INSPIRE team members.**
 
 Solution from our portfolio: [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
 
