@@ -56,6 +56,10 @@ And you’ll work DIRECTLY with our CEO, [Wayne](mailto:wburritt@burrittresearch
 
 You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help.
 
+# Some of our clients ...
+
+<img src="github-clients.png">
+
 # What We Do
 
 ## Solutions
@@ -87,10 +91,6 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 | [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') | [linkedin.com/in/oyelade-david](https://www.linkedin.com/in/oyelade-david 'David Oyelade LinkedIn') |
 | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') | [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') |
 | [Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume") | [David's Resume](https://burrittresearch.com/david-oyelade-resume.pdf "David's Resume")
-
-# Selected Clients
-
-<img src="github-clients.png">
 
 Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
