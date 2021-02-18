@@ -1,4 +1,4 @@
-<img src="github-cover-ds.png">
+<img src="github-cover-ds.png">sss
 
 # Burritt Research: Custom Data Science Solutions
 
@@ -56,7 +56,7 @@ And you’ll work DIRECTLY with our CEO, [Wayne](mailto:wburritt@burrittresearch
 
 You won’t be handed off and you won’t have to navigate an anonymous data behemoth to get help.
 
-# Clients
+# People We've Helped
 
 <img src="github-clients.png">
 
@@ -94,7 +94,7 @@ TensorFlow • Keras • Flask • Regression (Linear, Multi-Linear, Logistic, P
 
 Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto Group • Weiss Research  
 
-# Portfolio
+# Our Portfolio
 
 ## Data Science Projects Using Python in Jupyter Notebook
 
