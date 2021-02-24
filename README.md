@@ -98,21 +98,21 @@ Agora Financial • Bank of America • Festive • Morgan Stanley • Telesto G
 
 ## Data Science Projects Using Python in Jupyter Notebook
 
-### [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
-
-Comprehensive data analysis and visualization of the vovid-19 pandemic in Nigeria.
-
-### [San Francisco Crime Classification](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
-
-Data analysis, visualization, and prediction algorithm of crime in San Francisco, California.
-
 ### [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
 Data analysis, visualization, and prediction model of customer churn rate.
 
+### [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
+
+Comprehensive data analysis and visualization of the covid-19 pandemic in Nigeria.
+
 ### [Predicting FIFA Player Performance](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
 
 Data analysis, visualization, and prediction model of FIFA player performance.
+
+### [San Francisco Crime Classification](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
+
+Data analysis, visualization, and prediction algorithm of crime in San Francisco, California.
 
 ### [Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
 
