@@ -10,7 +10,7 @@ Burritt Research is a research and writing firm formed in 2005. We are experts a
 
 > We specialize in cryptocurrency/blockchain, investments, and data science.  
 > We publish regularly on [medium.com](https://medium.com/burritt-research) and other platforms.  
-> Samples of our work are below.  
+> Please visit our Portfolio below.   
 
 ## Solutions
 
@@ -18,7 +18,7 @@ Blog Posts/Articles • Web Content • Marketing Content • White Papers • D
 
 ## Programming Languages
 
-Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL •  
+Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL  
 
 # Wayne Burritt, CEO and Data Scientist
 
@@ -35,30 +35,25 @@ Wayne loves to help people understand hard-to-understand things. When he’s not
 
 <img src="github-clients.png">
 
-Agora Financial • Bank of America • Morgan Stanley • Telesto Group • Weiss Research  
+Bank of America • Big Innovations • Agora Financial • Morgan Stanley • Weiss Ratings  
 
 # Our Portfolio
 
 ## Cryptocurrency/Blockchain
 
 [Article Recommending Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article Recommending Ethereum')  
-
 [Article on the Impact of Blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article on the Impact of Blockchain')  
-
 [Article about Tezos Node Storage](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article about Tezos Node Storage')  
 
 ## Investments
 
-[Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')
-
-[Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
-
-[Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
+[Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')  
+[Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')  
+[Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')  
 
 ## Data Science 
 
-[Jupyter Notebook: Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
+[Jupyter Notebook: Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')  
+[Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')  
+[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')  
 
-[Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')
-
-[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
