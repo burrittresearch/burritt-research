@@ -20,7 +20,7 @@ Blog Posts/Articles • Web Content • Marketing Content • White Papers • D
 
 Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL  
 
-# Wayne Burritt, CEO and Data Scientist
+# Wayne Burritt, CEO  
 
 <img src="wayne-burritt-pic.jpg">
 
