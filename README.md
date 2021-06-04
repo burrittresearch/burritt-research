@@ -26,15 +26,10 @@ Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI •
 
 Wayne loves to help people understand hard-to-understand things. When he’s not writing or coding he likes hanging out with his wife Debi in the mountains of northeast Tennessee and teaching ballet.  
 
-[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) 
-
-[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) 
-
-[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') 
-
-[@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter') 
-
-[Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume") 
+[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
+[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn')  
+[@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')  
+[Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume")  
 
 # People We've Helped
 
