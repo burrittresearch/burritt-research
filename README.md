@@ -1,7 +1,6 @@
 <img src="github-cover-ds.png">
 
 # Writing | Research | Data Science
-dddddd
 
 ## Who We Are
 
@@ -9,9 +8,9 @@ Burritt Research is a research and writing firm formed in 2005. We are experts a
 
 ## What We Do
 
-We specialize in cryptocurrency/blockchain, investments, and data science.  
-We publish regularly on medium.com and other platforms.  
-Samples of our work are below.  
+> We specialize in cryptocurrency/blockchain, investments, and data science.  
+> We publish regularly on [medium.com](https://medium.com/burritt-research) and other platforms.  
+> Samples of our work are below.  
 
 ## Solutions
 
@@ -55,8 +54,6 @@ Agora Financial • Bank of America • Morgan Stanley • Telesto Group • Wei
 [Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')
 
 [Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')
-
-Equity research that describes the outlook for Alkame Water.
 
 ## Data Science 
 
