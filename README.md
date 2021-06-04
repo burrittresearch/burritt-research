@@ -9,23 +9,23 @@ Burritt Research is a research and writing firm formed in 2005. We are experts a
 
 ## What We Do
 
-We specialize in cryptocurrency/blockchain, investments, and data science.
-We publish regularly on medium.com and other platforms.
-Samples of our work are below.
+We specialize in cryptocurrency/blockchain, investments, and data science.  
+We publish regularly on medium.com and other platforms.  
+Samples of our work are below.  
 
 ## Solutions
 
-Blog Posts/Articles • Web Content • Marketing Content • White Papers • Data Science
+Blog Posts/Articles • Web Content • Marketing Content • White Papers • Data Science  
 
 ## Programming Languages
 
-Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL •
+Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL •  
 
 # Wayne Burritt, CEO and Data Scientist
 
 <img src="wayne-burritt-pic.jpg">
 
-Wayne loves to help people understand hard-to-understand things. When he’s not writing or coding he likes hanging out with his wife Debi in the mountains of northeast Tennessee and teaching ballet.
+Wayne loves to help people understand hard-to-understand things. When he’s not writing or coding he likes hanging out with his wife Debi in the mountains of northeast Tennessee and teaching ballet.  
 [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) 
 [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info) 
 [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn') 
