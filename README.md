@@ -53,7 +53,6 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 ## Data Science 
 
-[Jupyter Notebook: Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')  
 [Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')  
 [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')  
 
