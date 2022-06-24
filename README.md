@@ -54,6 +54,6 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 ## Data Science 
 
 [Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')  
-[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
+[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')  
 [Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')  
 
