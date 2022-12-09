@@ -43,13 +43,13 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 [Article Recommending Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article Recommending Ethereum')  
 [Article on the Impact of Blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article on the Impact of Blockchain')  
-[Article about Tezos Node Storage](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article about Tezos Node Storage')  
+[Article about Tezos Node Storage](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')  
 
 ## Investments
 
-[Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')  
-[Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')  
-[Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')  
+[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdff 'Report for ino.com recommending 3 hot stocks')  
+[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
+
 
 ## Data Anlytics 
 
