@@ -53,10 +53,10 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 ## Data Science Projects
 
-[Maven Market data analysis project in Power BI](https://github.com/burrittresearch/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')  
-[Kaggle real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')  
+[Maven Market data analysis project in Power BI](https://burrittresearch.com/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')  
+[Kaggle real estate data analysis project in python](https://burrittresearch.com/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')  
 [Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')  
 [Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')  
-[Sample Excel workbook with pivot table, pivot chart, and VBA macros](https://github.com/burrittresearch/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')  
-[Sample Visual Basic for Applications module with 4 macros for excel workbook](https://github.com/burrittresearch/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')  
+[Sample Excel workbook with pivot table, pivot chart, and VBA macros](https://burrittresearch.com/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')  
+[Sample Visual Basic for Applications module with 4 macros for excel workbook](https://burrittresearch.com/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')  
 
