@@ -51,7 +51,7 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 [Article for medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')  
 [Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')  
 
-## Data Analytics Projects
+## Data Science Projects
 
 [Maven Market data analysis project in Power BI](https://github.com/burrittresearch/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')  
 [Kaggle real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')  
