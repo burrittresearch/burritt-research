@@ -39,21 +39,21 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 # Our Portfolio
 
-## Cryptocurrency/Blockchain
+## Cryptocurrency/Blockchain Writing
 
-[Article Recommending Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article Recommending Ethereum')  
-[Article on the Impact of Blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article on the Impact of Blockchain')  
-[Article about Tezos Node Storage](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')  
+[Article for medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')  
+[Article for medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')  
+[Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')  
 
-## Investments
+## Financial Investment Writing
 
-[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdff 'Report for ino.com recommending 3 hot stocks')  
-[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
+[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')  
+[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')
+[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Report for ino.com recommending 3 hot stocks')
 
+## Data Anlytics Projects
 
-## Data Anlytics 
-
-[Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')  
-[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')  
-[Exploratory Data Analysis Presentation of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Exploratory Data Analysis Presentation')  
+[Real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Real estate data analysis project in python')
+[Restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Restaurant data analysis project report')  
+[Restaurant data analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Restaurant data analysis project presentation')  
 
