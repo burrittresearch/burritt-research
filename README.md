@@ -48,12 +48,12 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 ## Financial Investment Writing
 
 [Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')  
-[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')
+[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Report for ino.com recommending 3 hot stocks')
 
 ## Data Anlytics Projects
 
-[Real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Real estate data analysis project in python')
+[Real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Real estate data analysis project in python')  
 [Restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Restaurant data analysis project report')  
 [Restaurant data analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Restaurant data analysis project presentation')  
 
