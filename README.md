@@ -56,4 +56,6 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 [Real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Real estate data analysis project in python')  
 [Restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Restaurant data analysis project report')  
 [Restaurant data analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Restaurant data analysis project presentation')  
+[Sample Visual Basic for Applications module with 4 macros for excel workbook](https://github.com/burrittresearch/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')  
+[Sample Excel workbook with pivot table, pivot chart, and VBA macros](https://github.com/burrittresearch/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')  
 
