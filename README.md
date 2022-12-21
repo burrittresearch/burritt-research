@@ -28,7 +28,6 @@ Wayne loves to help people understand hard-to-understand things. When he’s not
 
 [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
 [linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn')  
-[@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')  
 [Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume")  
 
 # People We've Helped
@@ -40,6 +39,7 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 # Our Portfolio
 
 ## Financial Investment Writing
+### [More Samples medium.com/burrittresearch](https://medium.com/burrittresearch 'More Sample')
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')  
@@ -55,7 +55,7 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 [Excel workbook with pivot table, pivot chart, and VBA macros](https://burrittresearch.com/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')  
 [Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')   
-[Johnson City, Tennessee restaurant analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant analysis project report')  
+[Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')  
 [Kaggle real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')  
 [Maven Market data analysis project in Power BI](https://burrittresearch.com/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')  
 [Visual Basic for Applications module with 4 macros for excel workbook](https://burrittresearch.com/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')  
