@@ -37,7 +37,7 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 # Our Portfolio
 
-## Financial Investment Writing [More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'More Samples')
+## Financial Investment Writing
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')  
