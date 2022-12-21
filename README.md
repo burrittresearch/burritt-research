@@ -37,21 +37,21 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 # Our Portfolio<br>
 
-## Financial Investment Writing<br>
+## Financial Investment Writing
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
 [Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br><br>
 [==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
 
-## Cryptocurrency/Blockchain Writing<br>
+## Cryptocurrency/Blockchain Writing
 
 [Article for medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br><br>
 [Article for medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
 [Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')<br><br>
 [==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
 
-## Data Science Projects<br>
+## Data Science Projects
 
 [Excel workbook with pivot table, pivot chart, and VBA macros](https://burrittresearch.com/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')<br>
 [Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')<br>
