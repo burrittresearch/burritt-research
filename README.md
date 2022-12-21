@@ -2,20 +2,20 @@
 
 # Writing | Research | Data Science
 
-## Who We Are<br>
+## Who We Are
 
 Burritt Research is a research and writing firm formed in 2005. We are experts at transforming arcane subjects into engaging content. We also help people discover opportunities in their financial data that others overlook.
 
-## What We Do<br>
+## What We Do
 
 > We specialize in financial writing, cryptocurrency/blockchain, and data science.<br>
 > Please visit our Portfolio below.<br>
 
-## Solutions<br>
+## Solutions
 
 Blog Posts/Articles • Web Content • Data Science • Marketing Content • White Papers<br>
 
-## Programming Languages<br>
+## Programming Languages
 
 Python • Advanced Excel with VBA • IBM Cognos Analytics • IBM Cloud AI • Git/GitHub • HTML/CSS • SQL<br>
 
