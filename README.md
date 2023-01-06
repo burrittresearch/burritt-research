@@ -2,7 +2,7 @@
 
 # Writing | Research | Data Science
 
-## Who We Aresssssssssssssssssssssssssssssssssssss
+## Who We Are
 
 Burritt Research is a research and writing firm formed in 2005. We are experts at transforming arcane subjects into engaging content. We also help people discover opportunities in their financial data that others overlook.
 
