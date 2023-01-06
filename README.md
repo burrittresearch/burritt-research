@@ -1,6 +1,6 @@
 <img src="github-cover-ds.png">
 
-# Writing | Research | Data Sciencessssssssssssssssss
+# Writing | Research | Data Sciencesssssaaaaaaaaaaaaaaaaaaaa
 
 ## Who We Are
 
