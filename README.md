@@ -59,6 +59,5 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 [Kaggle real estate data analysis project in python](https://www.kaggle.com/code/jonathanburritt/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')<br>
 [Maven Market data analysis project in Power BI](https://burrittresearch.com/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')<br>
 [Visual Basic for Applications module with 4 macros for excel workbook](https://burrittresearch.com/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')<br><br>
-[==> More Samples: datacamp.com/profile/burrittresearch](https://app.datacamp.com/profile/burrittresearch 'DataCamp Burritt Research')<br>
 [==> More Samples: github.com/burrittresearch](https://github.com/burrittresearch 'GitHub Burritt Research')<br>
 [==> More Samples: kaggle.com/jonathanburritt](https://www.kaggle.com/jonathanburritt 'Kaggle Jonathan Burritt')<br>
