@@ -54,9 +54,9 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 ## Machine Learning and AI
 
 [Iris flower classification project in python](https://github.com/burrittresearch/iris-flower-classification-in-python 'Iris Flower Classification in Python')<br>
-[Kaggle real estate regression project in python](https://www.kaggle.com/code/jonathanburritt/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')<br>
+[Real estate price regression project in python](https://www.kaggle.com/code/jonathanburritt/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')<br>
 [Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')<br>
-[Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')<br>
+[Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')<br><br>
 [==> More Samples: github.com/burrittresearch](https://github.com/burrittresearch 'GitHub Burritt Research')<br>
 [==> More Samples: kaggle.com/jonathanburritt](https://www.kaggle.com/jonathanburritt 'Kaggle Jonathan Burritt')<br>
 
