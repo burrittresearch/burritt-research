@@ -57,13 +57,13 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 [Kaggle real estate regression project in python](https://www.kaggle.com/code/jonathanburritt/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')<br>
 [Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')<br>
 [Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')<br>
+[==> More Samples: github.com/burrittresearch](https://github.com/burrittresearch 'GitHub Burritt Research')<br>
+[==> More Samples: kaggle.com/jonathanburritt](https://www.kaggle.com/jonathanburritt 'Kaggle Jonathan Burritt')<br>
 
 
 ## Excel and Power BI
 
 [Excel workbook with pivot table, pivot chart, and VBA macros](https://burrittresearch.com/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')<br>
-
 [Maven Market data analysis project in Power BI](https://burrittresearch.com/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')<br>
 [Visual Basic for Applications module with 4 macros for excel workbook](https://burrittresearch.com/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')<br><br>
-[==> More Samples: github.com/burrittresearch](https://github.com/burrittresearch 'GitHub Burritt Research')<br>
-[==> More Samples: kaggle.com/jonathanburritt](https://www.kaggle.com/jonathanburritt 'Kaggle Jonathan Burritt')<br>
+
