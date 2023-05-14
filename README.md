@@ -53,7 +53,7 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 ## Machine Learning and AI
 
-
+[Stock market forecasting project in python](https://github.com/burrittresearch/stock-market-forecasting-in-python 'Stock market forecasting project in python')<br>
 [House price regression project in python](https://github.com/burrittresearch/house-price-regression-in-python 'House price regression project in python')<br>
 [Iris flower species classification project in python](https://github.com/burrittresearch/iris-flower-classification-in-python 'Iris Flower Classification in Python')<br>
 [Real estate price multiple regression project in python](https://www.kaggle.com/code/jonathanburritt/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')<br>
