@@ -61,44 +61,42 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 # Portfolio
 
-### Market Commentary
+### Blockchain
 
-[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
-
-### U.S. economics
-
-[Article for wealthcare capital about economics](https://burrittresearch.com/wayne-burritt-wealthcare-economic-commentary.pdf 'Article for wealthcare capital about economics')<br>
-
-### Stocks
-
-[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
-
-### Industry Outlook
-
-[Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
-
-### Stock Options
-
-[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
-
-### International Economics
-
-[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
-
+[Article for ino.com/medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
 
 ### Cryptocurrency
 
 [Article for ino.com/medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
 
-### Blockchain
+### Financial Websites
 
-[Article for ino.com/medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
+[Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+
+### Industry Outlook
+
+[Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
+
+### International Economics
+
+[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
+
+### Market Commentary
+
+[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
 
 ### Personal Finance
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
-### Financial Websites
+### Stocks
 
-[Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
 
+### Stock Options
+
+[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
+
+### U.S. economics
+
+[Article for wealthcare capital about economics](https://burrittresearch.com/wayne-burritt-wealthcare-economic-commentary.pdf 'Article for wealthcare capital about economics')<br>
