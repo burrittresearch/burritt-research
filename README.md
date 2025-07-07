@@ -53,8 +53,8 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### EDUCATION
 
-MBA, Business Administration, Golden Gate University, San Francisco, CA
-BA, English and Philosophy, Indiana University, Bloomington, IN
+-	MBA, Business Administration, Golden Gate University, San Francisco, CA
+-	BA, English and Philosophy, Indiana University, Bloomington, IN
 
 # Portfolio
 
