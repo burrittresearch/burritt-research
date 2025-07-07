@@ -40,6 +40,8 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### FINANCIAL WRITING EXPERIENCE
 
+** sample **
+
 **Financial Writer | Burritt Research, Inc. | Remote | 2004–Present**
 
 -	Created fresh, insightful financial content on stocks, cryptocurrency-blockchain, options, currencies, commodities, global markets, and economics. Delivered this content across frontend and backend investment newsletters, electronic investment magazines, investment websites, financial blogs, print financial magazines, and research reports.
