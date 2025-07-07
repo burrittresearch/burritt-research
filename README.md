@@ -95,6 +95,8 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 [Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
 
+[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
+
 ## Cryptocurrency
 
 [Article for ino.com/medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
