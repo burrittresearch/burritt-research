@@ -2,7 +2,7 @@
 
 <img src="github-cover-bri.png">
 
-# CONTACT
+## CONTACT
 
 > 828-699-0590<br>
 > Naples, FL<br>
@@ -40,9 +40,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### FINANCIAL WRITING EXPERIENCE
 
-I just love **bold text**
-
-I just love **Financial Writer - Burritt Research, Inc. - Remote 2004–Present**
+**Financial Writer - Burritt Research, Inc. - Remote 2004–Present**
 
 -	Created fresh, insightful financial content on stocks, cryptocurrency-blockchain, options, currencies, commodities, global markets, and economics. Delivered this content across frontend and backend investment newsletters, electronic investment magazines, investment websites, financial blogs, print financial magazines, and research reports.
 -	Created, launched, and directed all editorial aspects of multiple investment publications for a $500 million internationally acclaimed financial publisher. Grew the frontend publication from zero subscribers to 7,836 in just over a year. Served as editor and analyst for numerous clients’ frontend and backend publications.
@@ -70,8 +68,7 @@ Articles • Newsletters • Blogs • Research Reports • White Papers • Tho
 
 Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
 
-
-# Portfolio<br>
+# Portfolio
 
 ## Market Commentary
 
@@ -110,7 +107,7 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 ## Financial Websites
 
-[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+[Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
 
 [Retirement website writing for theretirementsolution.com]
