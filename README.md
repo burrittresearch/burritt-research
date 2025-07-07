@@ -40,7 +40,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### FINANCIAL WRITING EXPERIENCE
 
-** sample **
+I just love **bold text**
 
 **Financial Writer | Burritt Research, Inc. | Remote | 2004–Present**
 
