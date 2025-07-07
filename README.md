@@ -1,4 +1,4 @@
-# Expert Financial Writing | Wayne Burritt, CEO
+# Burritt Research | Expert Financial Writing
 
 <img src="github-cover-bri.png">
 
