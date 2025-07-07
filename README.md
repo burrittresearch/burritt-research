@@ -70,7 +70,7 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 # Portfolio
 
-## Market Commentary
+### Market Commentary
 
 [Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
 
