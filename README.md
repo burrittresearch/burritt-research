@@ -111,12 +111,8 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 ## Financial Websites
 
+[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+
+
 [Retirement website writing for theretirementsolution.com]
 (https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Retirement website writing for theretirementsolution.com')<br> 
-
-
-
-
-[==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
-
-[Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')<br><br>
