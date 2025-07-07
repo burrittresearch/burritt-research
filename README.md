@@ -1,6 +1,6 @@
 # Expert Financial Writing | Wayne Burritt, CEO
 
-<img src="github-cover-ds.png">
+<img src="github-cover-bri.png">
 
 # CONTACT
 
