@@ -42,7 +42,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 I just love **bold text**
 
-**Financial Writer | Burritt Research, Inc. | Remote | 2004–Present**
+I just love **Financial Writer | Burritt Research, Inc. | Remote | 2004–Present**
 
 -	Created fresh, insightful financial content on stocks, cryptocurrency-blockchain, options, currencies, commodities, global markets, and economics. Delivered this content across frontend and backend investment newsletters, electronic investment magazines, investment websites, financial blogs, print financial magazines, and research reports.
 -	Created, launched, and directed all editorial aspects of multiple investment publications for a $500 million internationally acclaimed financial publisher. Grew the frontend publication from zero subscribers to 7,836 in just over a year. Served as editor and analyst for numerous clients’ frontend and backend publications.
