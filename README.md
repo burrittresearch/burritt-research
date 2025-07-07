@@ -74,38 +74,38 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 [Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
 
-## U.S. economics
+### U.S. economics
 
 [Article for wealthcare capital about economics](https://burrittresearch.com/wayne-burritt-wealthcare-economic-commentary.pdf 'Article for wealthcare capital about economics')<br>
 
-## Stocks
+### Stocks
 
 [Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
 
 [Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
 
-## Stock Options
+### Stock Options
 
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
 
-## International Economics
+### International Economics
 
 [Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
 
 
-## Cryptocurrency
+### Cryptocurrency
 
 [Article for ino.com/medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
 
-## Blockchain
+### Blockchain
 
 [Article for ino.com/medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
 
-## Personal Finance
+### Personal Finance
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
-## Financial Websites
+### Financial Websites
 
 [Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
