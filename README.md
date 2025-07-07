@@ -1,11 +1,14 @@
-# Welcome to BurrittResearch.com!
+# Expert Financial Writing | Wayne Burritt, CEO
 
 <img src="github-cover-ds.png">
 
-# Expert Financial Writing | Wayne Burritt, CEO
-[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)<br>
-[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'Wayne Burritt LinkedIn')<br>
-[Wayne's Resume](https://burrittresearch.com/j-wayne-burritt-resume.pdf "Wayne's Resume")<br>
+# CONTACT
+
+> 828-699-0590<br>
+> Naples, FL<br>
+>[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)<br>
+>[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt)<br>
+>[medium.com/burrittresearch](https://medium.com/burrittresearch
 
 ## ABOUT US
 
@@ -37,7 +40,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### FINANCIAL WRITING EXPERIENCE
 
-Financial Writer | Burritt Research, Inc. | Remote | 2004–Present
+-	Financial Writer | Burritt Research, Inc. | Remote | 2004–Present
 
 -	Created fresh, insightful financial content on stocks, cryptocurrency-blockchain, options, currencies, commodities, global markets, and economics. Delivered this content across frontend and backend investment newsletters, electronic investment magazines, investment websites, financial blogs, print financial magazines, and research reports.
 -	Created, launched, and directed all editorial aspects of multiple investment publications for a $500 million internationally acclaimed financial publisher. Grew the frontend publication from zero subscribers to 7,836 in just over a year. Served as editor and analyst for numerous clients’ frontend and backend publications.
@@ -48,7 +51,7 @@ Financial Writer | Burritt Research, Inc. | Remote | 2004–Present
 -	Exceptionally comfortable transforming arcane and obtuse financial topics into engaging, spirited, and action-oriented content.
 -	Consistently delivered exceptional results for a demanding financial services client base. Compiled an extensive list of superlative client testimonials.
 
-###SELECT FINANCIAL WRITING CLIENTS
+### SELECT FINANCIAL WRITING CLIENTS
 
 Agora Financial • INO.com • TheStreet.com • Tifin Wealth • Weiss Research • Wealthcare
 
@@ -66,47 +69,50 @@ Articles • Newsletters • Blogs • Research Reports • White Papers • Tho
 Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
 
 
+# Portfolio<br>
 
+## Market Commentary
 
+[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
 
+## U.S. economics
 
+[Article for wealthcare capital about economics](https://burrittresearch.com/wayne-burritt-wealthcare-economic-commentary.pdf 'Article for wealthcare capital about economics')<br>
 
+## Stocks
 
+[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
 
+[Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
 
-
-
-
-
-
-
-
-
-
-
-
-# Our Portfolio<br>
-
-## Stock & Options
-
-[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br><br>
+## Stock Options
 
 [Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
 
-[==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
+## International Economics
 
-## Cryptocurrency/Blockchain Writing
+[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
 
-[Article for medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
+## Cryptocurrency
 
-[Article for medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
+[Article for ino.com/medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
 
-[Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')<br><br>
+## Blockchain
 
-[==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
+[Article for ino.com/medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
 
 ## Personal Finance
 
 [Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
+## Financial Websites
 
+[Retirement website writing for theretirementsolution.com]
+(https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Retirement website writing for theretirementsolution.com')<br> 
+
+
+
+
+[==> More Samples: medium.com/burrittresearch](https://medium.com/burrittresearch 'Medium Burritt Research')<br>
+
+[Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')<br><br>
