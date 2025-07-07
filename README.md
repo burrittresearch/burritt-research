@@ -51,22 +51,10 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 -	Exceptionally comfortable transforming arcane and obtuse financial topics into engaging, spirited, and action-oriented content.
 -	Consistently delivered exceptional results for a demanding financial services client base. Compiled an extensive list of superlative client testimonials.
 
-### SELECT FINANCIAL WRITING CLIENTS
-
-Agora Financial • INO.com • TheStreet.com • Tifin Wealth • Weiss Research • Wealthcare
-
 ### EDUCATION
 
 MBA, Business Administration, Golden Gate University, San Francisco, CA
 BA, English and Philosophy, Indiana University, Bloomington, IN
-
-### PLATFORMS & FORMATS
-
-Articles • Newsletters • Blogs • Research Reports • White Papers • Thought Leadership 
-
-### DOMAINS COVERED
-
-Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
 
 # Portfolio
 
