@@ -70,6 +70,8 @@ BA, English and Philosophy, Indiana University, Bloomington, IN
 
 [Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
 
+### Industry Outlook
+
 [Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
 
 ### Stock Options
