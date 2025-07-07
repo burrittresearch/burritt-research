@@ -26,12 +26,33 @@ Articles • Newsletters • Blogs • Research Reports • White Papers • Tho
 
 Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
 
+## CLIENT TESTIMONIALS
+
+*I've worked with many financial writers and I couldn't be more honest when I say that Wayne's a true pro...His analysis is always well researched and easy to understand. If you're looking for someone to build a financial franchise around, Wayne's your man.*
+
+Joe Schriefer<br>
+Publisher, Agora Financial
+
+*Wayne is undoubtedly one of the top financial writers in the market today. His ability to analyze a variety of industries and markets, and to convey his findings in a clear, succinct and entertaining manner, is simply unsurpassed.*
+
+Brien F. Lundin<br>
+CEO, The New Orleans Investment Conference
+
+*Wayne Burritt's sharp yet accessible commentary has brought RealMoney's readers numerous solid investing ideas. His conscientious follow-up and teaching approach have helped them continue to develop as investors. And as an editor, I've enjoyed working with someone who cares so much about his readership.*
+
+Gretchen Lembach<br>
+Managing Editor, TheStreet.com
+
+*What really sets Wayne’s analysis apart is that he knows how to communicate his findings clearly and helpfully, with proper emphasis on the details that really matter.  I’ll take one of Wayne’s reports over the mind-numbing data dumps that are all too common on Wall Street any day.*
+
+Sean Brodrick<br>
+Weiss Research
+
 # Wayne Burritt, CEO
 
 <img src="wayne-burritt-pic.jpg"><br>
 *BRI is led by company founder Wayne Burritt,* <br>
 *who personally handles all writing, strategy, and client engagement.*
-
 
 ## Resume
 
