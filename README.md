@@ -29,6 +29,8 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 # Wayne Burritt, CEO
 
 <img src="wayne-burritt-pic.jpg">
+*BRI is led by company founder Wayne Burritt, who personally handles all writing, strategy, and client engagement.*
+
 
 ## Resume
 
