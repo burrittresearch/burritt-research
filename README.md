@@ -109,6 +109,3 @@ Stocks • Options • Cryptocurrency • Commodities • Economics • Interest
 
 [Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
 
-
-[Retirement website writing for theretirementsolution.com]
-(https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Retirement website writing for theretirementsolution.com')<br> 
