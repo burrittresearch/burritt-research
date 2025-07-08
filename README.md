@@ -96,7 +96,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### International Markets
 
-[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Report for Association of Financial Professionals about investing in China')<br>
+[Article for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Article for Association of Financial Professionals about investing in China')<br>
 
 ### Market Commentary
 
