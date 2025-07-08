@@ -85,11 +85,11 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ##  Articles/Blogs
 
-### Blockchain
-
-[Article for ino.com about proof of work on the blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-ino-proof-of-work-2021.pdf 'Article for ino.com about proof of work on the blockchain')<br>
-
-### Cryptocurrency
+> ### Blockchain
+> 
+> [ Article for ino.com about proof of work on the blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-ino-proof-of-work-2021.pdf 'Article for ino.com about proof of work on the blockchain')<br>
+> 
+> ### Cryptocurrency
 
 [Article for ino.com about BTC price prediction](https://burrittresearch.com/wayne-burritt-article-crypto-ino-btc-price-2022.pdf 'Article for ino.com about BTC price prediction')<br>
 
