@@ -22,7 +22,7 @@ Agora Financial • INO.com • TheStreet.com • Tifin Wealth • Weiss Researc
 ## PLATFORMS & FORMATS
 
 Articles • Newsletters • Blogs • Research Reports • White Papers • Thought Leadership 
-
+	
 ## DOMAINS COVERED
 
 Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
@@ -134,5 +134,5 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ### Retirement
 
-[Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-websites-trs-2007.pdf 'Retirement website writing for theretirementsolution.com')<br>
+[Website for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-websites-trs-2007.pdf 'Retirement website writing for theretirementsolution.com')<br>
 
