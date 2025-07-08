@@ -118,7 +118,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 >### Options
 >
->[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>>
+>[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
 >
 >### Stocks
 >
