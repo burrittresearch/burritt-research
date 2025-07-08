@@ -90,49 +90,49 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 > [ Article for ino.com about proof of work on the blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-ino-proof-of-work-2021.pdf 'Article for ino.com about proof of work on the blockchain')<br>
 > 
 > ### Cryptocurrency
-
-[Article for ino.com about BTC price prediction](https://burrittresearch.com/wayne-burritt-article-crypto-ino-btc-price-2022.pdf 'Article for ino.com about BTC price prediction')<br>
-
-
-### International Markets
-
-[Article for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Article for Association of Financial Professionals about investing in China')<br>
-
-### Market Commentary
-
-[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
-
-### Personal Finance
-
-[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-personal-finance-mam-2016.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
-
-### Stocks
-
-[Article for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-article-stocks-ino-3-hot-stocks-2021.pdf 'Report for ino.com recommending 3 hot stocks')<br>
-
-### U.S. Economy
-
-[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
+>
+>[Article for ino.com about BTC price prediction](https://burrittresearch.com/wayne-burritt-article-crypto-ino-btc-price-2022.pdf 'Article for ino.com about BTC price prediction')<br>
+>
+>
+>### International Markets
+>
+>[Article for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Article for Association of Financial Professionals about investing in China')<br>
+>
+>### Market Commentary
+>
+>[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
+>
+>### Personal Finance
+>
+>[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-personal-finance-mam-2016.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+>
+>### Stocks
+>
+>[Article for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-article-stocks-ino-3-hot-stocks-2021.pdf 'Report for ino.com recommending 3 hot stocks')<br>
+>
+>### U.S. Economy
+>
+>[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
 ## Investment Newsletters
 
-### Options
-
-[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
-
-### Stocks
-
-[Newsletter for Weiss Research about stocks](https://burrittresearch.com/wayne-burritt-newsletter-stocks-weiss-mup-2016.pdf 'Newsletter for Weiss Research about stocks')<br>
+>### Options
+>
+>[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>>
+>
+>### Stocks
+>
+>[Newsletter for Weiss Research about stocks](https://burrittresearch.com/wayne-burritt-newsletter-stocks-weiss-mup-2016.pdf 'Newsletter for Weiss Research about stocks')<br>
 
 ## Research Reports / White Papers
 
-### Stocks
-
-[Research report about PSUN](https://burrittresearch.com/wayne-burritt-research-psun-2005.pdf 'Research report about PSUN')<br>
+>### Stocks
+>
+>[Research report about PSUN](https://burrittresearch.com/wayne-burritt-research-psun-2005.pdf 'Research report about PSUN')<br>
 
 ## Websites
 
-### Retirement
-
-[Website for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-websites-trs-2007.pdf 'Retirement website writing for theretirementsolution.com')<br>
+>### Retirement
+>
+>[Website for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-websites-trs-2007.pdf 'Retirement website writing for theretirementsolution.com')<br>
 
