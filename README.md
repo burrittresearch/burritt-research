@@ -102,6 +102,10 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >
 >[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
 >
+>### Options
+>
+>[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
+>
 >### Personal Finance
 >
 >[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-personal-finance-mam-2016.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
@@ -116,10 +120,6 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 ## Ghostwriting
 
->### Options
->
->[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
->
 >### Gold
 >[Ghostwriting for Treasure Coast Bullion Group about gold](https://burrittresearch.com/wayne-burritt-article-ghostwriting-tcbg-2017.pdf 'Ghostwriting for Treasure Coast Bullion Group about gold')
 >
