@@ -114,6 +114,21 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >
 >[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
+## Ghostwriting
+
+>### Options
+>
+>[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
+>
+>### Gold
+>[Ghostwriting for Treasure Coast Bullion Group about gold](https://burrittresearch.com/wayne-burritt-article-ghostwriting-tcbg-2017.pdf 'Ghostwriting for Treasure Coast Bullion Group about gold')
+>
+>### Options
+>[Ghostwriting for Weiss Rsearch about options](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-eoa-2006.pdf 'Ghostwriting for Weiss Rsearch about options')
+>
+>### Stocks
+>[Ghostwriting for Weiss Rsearch about stocks](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-ewt-2005.pdf 'Ghostwriting for Weiss Rsearch about stocks')
+
 ## Investment Newsletters
 
 >### Options
