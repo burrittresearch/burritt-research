@@ -9,7 +9,6 @@
 >[wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info 'Email wburritt@burrittresearch.com')<br>
 >[burrittresearch.com](https://burrittresearch.com'burrittresearch.com')<br>
 >[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'linkedin.com/in/wayneburritt')<br>
->[medium.com/burrittresearch](https://medium.com/burrittresearch 'medium.com/burrittresearch')<br>
 
 ## ABOUT US
 
