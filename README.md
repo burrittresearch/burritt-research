@@ -1,4 +1,4 @@
-# Burritt Research | Expert Financial Writing
+# Burritt Research | Expert Financial Writingsssss
 
 <img src="github-cover-bri.png">
 
