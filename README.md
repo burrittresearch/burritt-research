@@ -97,9 +97,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >
 >[Article for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Article for Association of Financial Professionals about investing in China')<br>
 >
->### Market Commentary
->
->[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
+
 >
 >### Personal Finance
 >
@@ -108,21 +106,25 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >### Stocks
 >
 >[Article for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-article-stocks-ino-3-hot-stocks-2021.pdf 'Report for ino.com recommending 3 hot stocks')<br>
->
->### U.S. Economy
->
->[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
 ## Ghostwriting
 
 >### Gold
 >[Ghostwriting for Treasure Coast Bullion Group about gold](https://burrittresearch.com/wayne-burritt-article-ghostwriting-tcbg-2017.pdf 'Ghostwriting for Treasure Coast Bullion Group about gold')
 >
+>### Market Commentary
+>
+>[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
+>
 >### Options
 >[Ghostwriting for Weiss Rsearch about options](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-eoa-2006.pdf 'Ghostwriting for Weiss Rsearch about options')
 >
 >### Stocks
 >[Ghostwriting for Weiss Rsearch about stocks](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-ewt-2005.pdf 'Ghostwriting for Weiss Rsearch about stocks')
+>
+>### U.S. Economy
+>
+>[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
 ## Investment Newsletters
 
