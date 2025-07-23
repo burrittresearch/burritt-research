@@ -117,14 +117,14 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
 >
 >### Options
->[Ghostwriting for Weiss Rsearch about options](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-eoa-2006.pdf 'Ghostwriting for Weiss Rsearch about options')
+>[Ghostwriting for Weiss Research about options](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-eoa-2006.pdf 'Ghostwriting for Weiss Rsearch about options')
 >
 >### Stocks
->[Ghostwriting for Weiss Rsearch about stocks](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-ewt-2005.pdf 'Ghostwriting for Weiss Rsearch about stocks')
+>[Ghostwriting for Weiss Research about stocks](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-ewt-2005.pdf 'Ghostwriting for Weiss Rsearch about stocks')
 >
 >### U.S. Economy
 >
->[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
+>[Article for Wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
 ## Investment Newsletters
 
