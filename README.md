@@ -130,7 +130,9 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 >### IPO/SPAC/Tech
 >
->[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>>### Options
+>IPO/SPAC/Tech Research Coming Soon (2026)
+>
+>### Options
 >
 >[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
 >
