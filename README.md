@@ -130,7 +130,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 >### IPO/SPAC/Tech
 >
-IPO/SPAC/Tech Research Coming Soon (2026)
+>IPO/SPAC/Tech Research Coming Soon (2026)
 >
 >### Options
 >
