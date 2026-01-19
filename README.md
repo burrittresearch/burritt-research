@@ -124,7 +124,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 >
 >### U.S. Economy
 >
->[Article for Wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
+>[Article for Wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-economy-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
 ## Investment Newsletters
 
