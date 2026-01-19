@@ -130,7 +130,7 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 >### IPO/SPAC/Tech
 >
->[Daily Newsletter for Burritt Research about IPOs and SPACs](https://burrittresearch.com/wayne-burritt-newsletter-ipo-brief-2026.pdf 'Daily Newsletter for Burritt Research about IPOs and SPACs')<br>
+>[Newsletter for Burritt Research about IPOs and SPACs](https://burrittresearch.com/wayne-burritt-newsletter-ipo-brief-2026.pdf 'Daily Newsletter for Burritt Research about IPOs and SPACs')<br>
 >
 >### Options
 >
