@@ -82,6 +82,16 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 # Portfolio
 
+## Selected Recent Work
+
+>### Market Commentary
+>
+>[Ghostwriting for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Ghostwriting for Tifin AG about market commentary')<br>
+>
+>### U.S. Economy
+>
+>[Ghostwriting for Wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-economy-wealthcare-2025.pdf 'Ghostwriting for wealthcare capital about the economy')<br>
+
 ##  Articles/Blogs
 
 > ### Blockchain
